@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channnel>
+    <title>BLOG＆FACEBOOK＆オフィシャルサイトを見ようチャンネル</title>
+    <lastBuildDate>2016/1/24</lastBuildDate>
+    <item>
+        <title>今日のBLOGはどうかな？</title>
+        <link>http://ameblo.jp/nishino-kana/</link>
+        <description></description>
+	<scroll>true</scroll>
+    </item>
+    <item>
+        <title>今日のFACEBOOKはどうかな？</title>
+        <link>https://www.facebook.com/nishinokanaofficial</link>
+        <description></description>
+	<scroll>true</scroll>
+    </item>
+    <item>
+        <title>西野カナ最新情報</title>
+        <link>http://www.sonymusic.co.jp/Music/Info/kananishino/info/</link>
+        <description></description>
+	<scroll>true</scroll>
+    </item>
+    <item>
+        <title>イベント情報</title>
+        <link>http://www.sonymusic.co.jp/Music/Info/kananishino/schedule/</link>
+        <description></description>
+	<scroll>true</scroll>
+    </item>
+    <item>
+        <title>音楽作品一覧を見よう</title>
+        <link>http://www.sonymusic.co.jp/Music/Info/kananishino/disco/</link>
+        <description></description>
+	<scroll>true</scroll>
+    </item>
+    <item>
+        <title>経歴を見よう</title>
+        <link>http://www.sonymusic.co.jp/Music/Info/kananishino/bio/</link>
+        <description></description>
+	<scroll>true</scroll>
+    </item>
+</channnel>

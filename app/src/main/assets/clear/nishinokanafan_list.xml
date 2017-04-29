@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channnel>
+    <title>Nishino Kana Channel list</title>
+    <lastBuildDate>2016/1/24</lastBuildDate>
+    <item>
+        <title>半月のお勧め１０曲</title>
+        <description>recommend_channel.xml</description>
+    </item>
+    <item>
+        <title>西野カナと関連キーワードで検索</title>
+        <description>search_channel.xml</description>
+    </item>
+    <item>
+        <title>BLOG＆FACEBOOK＆オフィシャルサイトを見よう</title>
+        <description>sites_channel.xml</description>
+    </item>
+    <item>
+        <title>アプリ運営者からお知らせ</title>
+        <description>corp_channel.xml</description>
+    </item>
+</channnel>

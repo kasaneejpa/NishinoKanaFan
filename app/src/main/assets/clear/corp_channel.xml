@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<channnel>
+    <title>アプリ運営者からお知らせチャンネル</title>
+    <lastBuildDate>2016/3/16</lastBuildDate>
+    <item>
+        <title>現在Nishino Kana Fanサービスは試験運用中です。(FixedContents)</title>
+        <link>http://www.testmissionnotify.com/nishinokanafan/html/index.html</link>
+        <description></description>
+	    <scroll>false</scroll>
+    </item>
+</channnel>

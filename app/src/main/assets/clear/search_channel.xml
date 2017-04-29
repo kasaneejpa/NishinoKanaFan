@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channnel>
+    <title>西野カナと関連キーワードで検索チャンネル</title>
+    <lastBuildDate>2016/1/24</lastBuildDate>
+    <item>
+        <title>まずは西野カナで検索!</title>
+        <link></link>
+        <description>西野カナ</description>
+	<scroll>true</scroll>
+    </item>
+    <item>
+        <title>西野カナ、ファッションで検索してみよう!</title>
+        <link></link>
+        <description>西野カナ　ファッション</description>
+	<scroll>true</scroll>
+    </item>
+    <item>
+        <title>西野カナさんはみえの国観光大使です。調べて見よう!</title>
+        <link></link>
+        <description>西野カナ　みえの国観光大使</description>
+	<scroll>true</scroll>
+    </item>
+    <item>
+        <title>西野カナさんはほぼすべて作詞をしています。検索してみよう!</title>
+        <link></link>
+        <description>西野カナ　作詞</description>
+	<scroll>true</scroll>
+    </item>
+    <item>
+        <title>西野カナさんといえばカンカン帽!</title>
+        <link></link>
+        <description>西野カナ　カンカン帽</description>
+	<scroll>true</scroll>
+    </item>
+</channnel>
